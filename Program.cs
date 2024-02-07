@@ -5,10 +5,14 @@ var app = builder.Build();
 
 //mvc
 //rest api
-//razor pages
+//razor pages , gibi proje şablonları vardır.
 
-app.MapGet("/", () => "Hello World!");
-app.MapGet("/abc", () => "Deneme!");
 
+//controller/action/id? => şeması kullanılmış olur.
+//app.MapDefaultControllerRoute();
+app.MapControllerRoute(
+    name : "default",
+    pattern : "{controller=Meeting}/{action=Index}/id?"
+);
 
 app.Run();
