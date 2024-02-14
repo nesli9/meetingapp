@@ -17,3 +17,23 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/SİSTEM-SAKIN-SİLME/Desktop/Codes/Proje/Udemy/ASPNETCore/MeetingApp/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SİSTEM-SAKIN-SİLME/Desktop/Codes/Proje/Udemy/ASPNETCore/MeetingApp/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SİSTEM-SAKIN-SİLME/Desktop/Codes/Proje/Udemy/ASPNETCore/MeetingApp/Views/Meeting/Apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xBcHBseS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SİSTEM-SAKIN-SİLME/Desktop/Codes/Proje/Udemy/ASPNETCore/MeetingApp/Views/Meeting/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SİSTEM-SAKIN-SİLME/Desktop/Codes/Proje/Udemy/ASPNETCore/MeetingApp/Views/Meeting/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -23,3 +23,5 @@ D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp\obj\Debu
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp\obj\Debug\net7.0\MeetingApp.pdb
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp\obj\Debug\net7.0\MeetingApp.genruntimeconfig.cache
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
+D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cache
+D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
