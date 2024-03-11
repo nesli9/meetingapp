@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A080wTJO88aemmQHdxckOfLzkDeK8JgHhUsEtPZruQL5fx59wnbRe8YPeG97nWI09ZB6UUErn/d3hkevy5IH2A==",
+  "dgSpecHash": "e4nb3kPwszyRPH1XdnNF7yi0z3CxSClT+f8LajK/bZodz6Z/KYBCQeTpJ7HR2RtlaWvswI7Qi3zRH0bCsManMA==",
   "success": true,
-  "projectFilePath": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\MeetingApp\\MeetingApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\UseR\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\UseR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\UseR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\UseR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\doann\\OneDrive\\Masaüstü\\meetingapp\\MeetingApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
