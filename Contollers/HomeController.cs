@@ -20,8 +20,8 @@ namespace MeetingApp.Controllers
                 Location = "İstanbul , ABC Kongre mergezi",
                 Date = new DateTime(2024 , 01,20,20,0,0),
                 NumberOfPeople = 100;
-
-            };
+ 
+            }; 
 
             return View(meetingInfo);
         }
