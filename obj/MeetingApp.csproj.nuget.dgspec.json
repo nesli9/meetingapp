@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\MeetingApp\\MeetingApp.csproj": {}
+    "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj": {}
   },
   "projects": {
-    "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\MeetingApp\\MeetingApp.csproj": {
+    "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\MeetingApp\\MeetingApp.csproj",
+        "projectUniqueName": "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\MeetingApp\\MeetingApp.csproj",
-        "packagesPath": "C:\\Users\\UseR\\.nuget\\packages\\",
-        "outputPath": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\MeetingApp\\obj\\",
+        "projectPath": "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj",
+        "packagesPath": "C:\\Users\\doann\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UseR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\doann\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,24 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
