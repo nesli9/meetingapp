@@ -12,6 +12,12 @@ namespace MeetingApp.Contollers{
         public IActionResult Apply(){
             return View();
         }
+        [HttpPost]
+
+        public IActionResult Apply(string Name , string Phone , string Email , bool WillAttend){
+            
+            return View();
+        }
         [HttpGet]
 
         public IActionResult List(){
