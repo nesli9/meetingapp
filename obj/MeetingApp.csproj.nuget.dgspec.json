@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj": {}
+    "C:\\Users\\doann\\OneDrive\\Masaüstü\\meetingapp\\MeetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj": {
+    "C:\\Users\\doann\\OneDrive\\Masaüstü\\meetingapp\\MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj",
+        "projectUniqueName": "C:\\Users\\doann\\OneDrive\\Masaüstü\\meetingapp\\MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\MeetingApp.csproj",
+        "projectPath": "C:\\Users\\doann\\OneDrive\\Masaüstü\\meetingapp\\MeetingApp.csproj",
         "packagesPath": "C:\\Users\\doann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doann\\OneDrive\\Belgeler\\GitHub\\meetingapp\\obj\\",
+        "outputPath": "C:\\Users\\doann\\OneDrive\\Masaüstü\\meetingapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doann\\AppData\\Roaming\\NuGet\\NuGet.Config"
